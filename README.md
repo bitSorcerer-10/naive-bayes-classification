@@ -85,8 +85,7 @@ pip install streamlit pandas numpy scikit-learn plotly
 streamlit run app.py
 
 ### 3. Open in Browser
-http://localhost:8501
-
+https://naive-bayes-classification-sumana-paul.streamlit.app/
 ---
 
 ## 📊 How to Use
